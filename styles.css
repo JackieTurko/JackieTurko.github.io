@@ -22,21 +22,21 @@ p {
      font: 120% serif; 
      background-color: white ;
      color: green; 
-     margin-left: 50px;
-     margin-right: 50px;
+     margin-left: 100px;
+     margin-right: 75px;
 
 }
 p {
      background-color: white;
-     margin-left: 50px;
-     margin-right: 50px;
+     margin-left: 100px;
+     margin-right: 75px;
 }
 ul {
      color:green; 
     text-align: left;
    background-color: white;
-   margin-left: 50px;
-     margin-right: 50px;
+   margin-left: 100px;
+     margin-right: 75px;
 }
 h1 {
     background-color: white
@@ -49,6 +49,6 @@ h2 {
   font-family: "Verdana";
      font: 500% serif; 
      text-align: center
-     margin-left: 50px;
-     margin-right: 50px;
+     margin-left: 100px;
+     margin-right: 75px;
 }
