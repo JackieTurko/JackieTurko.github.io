@@ -12,6 +12,7 @@ body {
      font: 160% serif; 
 background-image: url(http://static.giantbomb.com/uploads/original/5/51699/2658559-tumblr_n14fsnmjcg1so0s37o5_1280.jpg);
 color: green 
+
 }
 p {
     text-align: center;
@@ -21,14 +22,21 @@ p {
      font: 120% serif; 
      background-color: white ;
      color: green; 
+     margin-left: 50px;
+     margin-right: 50px;
+
 }
 p {
      background-color: white;
+     margin-left: 50px;
+     margin-right: 50px;
 }
 ul {
      color:green; 
     text-align: left;
    background-color: white;
+   margin-left: 50px;
+     margin-right: 50px;
 }
 h1 {
     background-color: white
@@ -41,4 +49,6 @@ h2 {
   font-family: "Verdana";
      font: 500% serif; 
      text-align: center
+     margin-left: 50px;
+     margin-right: 50px;
 }
